@@ -1,5 +1,7 @@
 #pagina-html
 p { 
     text-align:center
-    background-color; rgb(208, 105, 177)
+}
+body { 
+    background-color: rgb(208, 105, 177)
 }
